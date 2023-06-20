@@ -34,7 +34,6 @@ public class Student extends User {
 
     @Override
     public boolean updateUUID(long UUID) {
-        // TODO: 13.06.2023 Нужен ли мне этот метод?
         return false;
     }
 
